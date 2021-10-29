@@ -36,6 +36,8 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'devise'
 
+gem 'faker'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
